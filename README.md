@@ -2,21 +2,16 @@
 
 **`SOFTWARE ENGINEER`**
 
-As a seasoned software engineer, I bring a wealth of experience in full-stack development, proficient in a diverse array of technologies. My expertise spans Java 21,<b> Spring Boot 3</b>, Spring Data JPA with Hibernate 6, MySQL, Maven, and Postman for backend development. On the frontend, I excel in <b> Next.js 14</b>, React.js 18+, Vite.js, Bootstrap CSS, JavaScript, npm, and Axios, ensuring seamless user experiences. With a commitment to clean, maintainable code, I deliver robust, scalable solutions that meet both business needs and user expectations, continually embracing new challenges for growth and innovation.
-
+As an experienced developer, I specialize in HTML, CSS, JavaScript, and React.js, showcasing my expertise in front-end web development. I create stunning and responsive user interfaces using the latest web technologies and best practices. My GitHub account reflects a portfolio of projects that demonstrate my skills in building interactive and dynamic web applications. I am committed to delivering high-quality code and continually learning and improving to stay ahead in the ever-evolving field of web development.
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
@@ -37,3 +32,6 @@ As a seasoned software engineer, I bring a wealth of experience in full-stack de
 Beyond the server-side realm, I embrace the challenges of front-end development with zeal. Armed with Next.js, React.js 18+, Vite.js, and Bootstrap CSS, I breathe life into user interfaces, ensuring a seamless and intuitive experience for end-users. My command over JavaScript, coupled with npm and Axios, empowers me to orchestrate seamless communication between client and server, ensuring robust functionality across the entire software ecosystem.
 
 Throughout my journey, I've remained steadfast in my commitment to delivering high-quality software solutions. Whether architecting the back-end infrastructure or fine-tuning the front-end interface, my focus remains unwavering on crafting clean, maintainable code that exceeds both business objectives and user expectations. As I continue to evolve in this ever-changing landscape, I embrace each new challenge as an opportunity for growth, pushing the boundaries of innovation and excellence in software engineering.
+
+
+

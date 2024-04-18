@@ -1,4 +1,4 @@
-#  USMAN SHABBIR
+#  Hasnaat Arshad
 
 **`SOFTWARE ENGINEER`**
 
@@ -23,15 +23,15 @@ As a seasoned software engineer, I bring a wealth of experience in full-stack de
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanshabbir756&show_icons=flase&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnaatArshad756&show_icons=flase&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usmanshabbir756&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HasnaatArshad756&theme=gruvbox&border_radius=4.5) -->
 
 
 #
 
 <details>
- <summary><h3>👨‍💻 USMAN's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Hasnaat's Coding Journey</h3></summary>
   As a full-stack developer, my journey in software engineering has been characterized by a dynamic blend of technical expertise and continuous learning. Armed with Java 21, Spring Boot 3, and Spring Data JPA (utilizing Hibernate 6), I've navigated the intricacies of back-end development with precision and finesse. My proficiency in crafting efficient, scalable solutions extends to database management, where I leverage MySQL alongside Maven for seamless project integration.
 
 Beyond the server-side realm, I embrace the challenges of front-end development with zeal. Armed with Next.js, React.js 18+, Vite.js, and Bootstrap CSS, I breathe life into user interfaces, ensuring a seamless and intuitive experience for end-users. My command over JavaScript, coupled with npm and Axios, empowers me to orchestrate seamless communication between client and server, ensuring robust functionality across the entire software ecosystem.

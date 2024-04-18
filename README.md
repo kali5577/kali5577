@@ -27,11 +27,15 @@ As an experienced developer, I specialize in HTML, CSS, JavaScript, and React.js
 
 <details>
  <summary><h3>👨‍💻 Hasnaat's Coding Journey</h3></summary>
-  As a full-stack developer, my journey in software engineering has been characterized by a dynamic blend of technical expertise and continuous learning. Armed with Java 21, Spring Boot 3, and Spring Data JPA (utilizing Hibernate 6), I've navigated the intricacies of back-end development with precision and finesse. My proficiency in crafting efficient, scalable solutions extends to database management, where I leverage MySQL alongside Maven for seamless project integration.
+  My journey in frontend development started with a curiosity for creating visually appealing and interactive web experiences. I delved into HTML and CSS, learning the fundamentals of structuring web pages and styling them to achieve desired designs. As I progressed, I embraced JavaScript to add functionality and interactivity, mastering concepts like DOM manipulation and event handling. This foundational knowledge laid the groundwork for my exploration into modern frameworks like React.js, where I discovered the power of component-based architecture and declarative programming. With each project and challenge, I honed my skills, refining my ability to translate design concepts into elegant, responsive web interfaces.
 
-Beyond the server-side realm, I embrace the challenges of front-end development with zeal. Armed with Next.js, React.js 18+, Vite.js, and Bootstrap CSS, I breathe life into user interfaces, ensuring a seamless and intuitive experience for end-users. My command over JavaScript, coupled with npm and Axios, empowers me to orchestrate seamless communication between client and server, ensuring robust functionality across the entire software ecosystem.
 
-Throughout my journey, I've remained steadfast in my commitment to delivering high-quality software solutions. Whether architecting the back-end infrastructure or fine-tuning the front-end interface, my focus remains unwavering on crafting clean, maintainable code that exceeds both business objectives and user expectations. As I continue to evolve in this ever-changing landscape, I embrace each new challenge as an opportunity for growth, pushing the boundaries of innovation and excellence in software engineering.
+
+As my journey evolved, I immersed myself in advanced techniques and tools in frontend development. I delved into CSS frameworks like Bootstrap and explored preprocessors like SASS to streamline my styling workflows. Concurrently, I deepened my understanding of JavaScript, leveraging libraries like Axios for efficient API communication and integrating state management solutions such as Redux for complex applications. Embracing Next.js further enhanced my capabilities, allowing me to build scalable and SEO-friendly web applications with server-side rendering. Continuous learning and staying updated with industry trends have been integral to my growth, enabling me to tackle diverse challenges and deliver innovative solutions in frontend development.
+
+
+
+
 
 
 
